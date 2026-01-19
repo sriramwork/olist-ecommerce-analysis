@@ -24,4 +24,4 @@ The repository follows a professional data warehousing approach:
 
 ### ⚙️ Technical Skills Demonstrated
 * **Advanced SQL:** Window Functions (`NTILE`, `RANK`), `COALESCE`, and `PERIOD_DIFF`.
-* **Data Modeling:** Schema design, ETL, and Data Pivoting (`MAX(CASE...)`).
+* **Data Modeling:** Schema design, ETL, and Data Pivoting (`MAX(CASE)`) Logic.
