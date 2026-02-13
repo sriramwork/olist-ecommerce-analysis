@@ -108,6 +108,6 @@ olist-ecommerce-analysis/
 🎓 University of Arizona (Class of 2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sriram0712)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:manikyala@arizona.edu)
+[![Email](mailto:your.email@arizona.edu)
 
 💼 Open to Data Analyst, BI, and Analytics roles 
