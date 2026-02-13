@@ -1,4 +1,6 @@
 # Olist E-Commerce: $2.1M Growth Opportunity Analysis
+![Executive Dashboard](https://github.com/sriramwork/olist-ecommerce-analysis/blob/main/Screenshots/executive_overview.png)
+*Interactive dashboard showing revenue trends, customer segmentation, and delivery performance across Brazilian states.*
 
 > **End-to-end analytics project identifying retention, logistics, and segmentation opportunities in Brazilian e-commerce.**
 
